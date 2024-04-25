@@ -11,6 +11,7 @@ lxml = "^5.2.1"
 requests = "^2.31.0"
 beautifulsoup4 = "^4.12.3"
 sqlalchemy = "^2.0.29"
+scrapy = "^2.11.1"
 
 
 [build-system]
